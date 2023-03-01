@@ -646,4 +646,3 @@ var speedrecog_recent_stimlist_full = [
 		id:               ['B','C','B','C','B','C','A','B','B','C','B','C','A','C','B','C','A','B','A','B','A','C','A','C','A','C','A','C','A','C','A','B','A','B','A','B','A','B','A','B','A','C','A','B','A','B','A','B','B','C','B','C','A','C','B','C','B','C','A','C','A','B','A','C','B','C','A','C','B','C','A','C']
 	}
 ];
-
