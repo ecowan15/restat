@@ -8,7 +8,7 @@ Speeded Recog: test AB, BC, AC, intact and rearranged
 	: triplet_num (1:3), pair_type (1AB, 2BC, 3AC), I1R2_key, categ,delay, trial_num, 
 	 group number, triad_stim_no (rearr id), IR accuracy, stims, id label , 
 	 IR accuracy = 1 in order (i.e., AB, BC intact), 0 not in order (can be any AC (intact or rearr) or any rearr) 
-
+ */
 
 workerGroups = [
 {group: 1, members: ['A', 'B', 'C', 'D', 'E', 'F']},
